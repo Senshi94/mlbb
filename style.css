@@ -1,0 +1,165 @@
+body {
+    font-family:Helvetica;
+    background-color: rgb(151, 151, 150);
+    padding: 0%;
+    margin: 0% ;    
+
+}
+
+nav {
+    display: flex;
+    border-bottom: 2px solid rgb(0, 0, 0)   }
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+ul li {
+    margin:10px;
+    margin-right: 35px;
+}
+ul li a {
+    color: black
+}
+#titulo {
+    margin: 0px;
+    text-align: center;
+    color: goldenrod;
+    width: 97%;
+    background-color: black;
+    padding: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 4px double goldenrod;
+}
+#button {
+    
+    padding: 10px;
+    
+}
+#button a{
+    color: black;
+}
+
+#subtitulo {
+    margin: 10px;
+    color: black;
+    font-size: large;
+}
+
+#button-text {
+    font-size: 30px;
+    color: black;
+    margin: 10px;
+}
+#button .botao {
+    font-size: 15px;
+    margin: 10px;
+    padding: 10px;
+    background-color: goldenrod;
+}
+
+
+
+#texto1 h2, p {
+    margin: 30px;
+}
+#classes dt,dd,h2 {
+    margin-left: 30px;
+}
+#texto1 h1 { 
+    margin-left: 30px;
+}
+
+
+dt , h4 {
+    margin: 10px 30px;
+    background-color: black;
+    color: goldenrod;
+    padding: 8px;
+    
+}
+#classes h3 , h2 {
+    background-color: goldenrod;
+    color: black;
+    margin-left: 30px;
+    padding: 8px;
+}
+section img {
+    margin: 10px 30px;
+    border: double 10px goldenrod;
+    background-color: black;
+}
+section h1 {
+    margin: 30px;
+    font-size: 30px;
+}
+#texto1 .herois {
+
+    margin: 10px 470px;
+    border: double 10px goldenrod;
+    background-color: black;
+}
+#div1 h2   {
+    font-size: 20px;
+    margin: 30px;
+}
+#div1 p {
+    margin: 30px;
+}
+#div1 h3 {
+    margin: 30px;
+}
+
+#div1 .comprar {
+    margin: 30px;
+    border: 3px solid goldenrod;
+    background-color: black;
+    text-align: center;
+    color: goldenrod;
+    font-size: large;
+    
+
+}
+#sub2 .eudora {
+    margin: 10px 30px;
+    border: double 10px goldenrod;
+    background-color: black;
+}
+
+#sub2 .hometext {
+    margin: 30px;
+    color: black;
+    font-size: large;
+
+}
+#sub2 .h1home {
+    margin:30px;
+}
+
+#sub2 .boss {
+    margin: 10px 30px;
+    border: double 10px goldenrod;
+    background-color: black; 
+}
+
+#div1 .lista1 {
+    margin: 30px;
+    
+}
+#div1 .link1 {
+    color: yellow;
+}
+
+#notes1 .note1 {
+    margin: 30px;
+}
+#notes1 .melissa {
+    margin: 10px 30px;
+    border: double 10px goldenrod;
+    background-color: black;  
+}
+#notes1 .p1 {
+    margin: 30px;
+}
